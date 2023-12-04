@@ -1,4 +1,4 @@
-Project link - https://iridescent-buttercream-9d71f6.netlify.app
+Project link - https://cinematicnew.netlify.app/
 
 # Getting Started with Create React App
 
