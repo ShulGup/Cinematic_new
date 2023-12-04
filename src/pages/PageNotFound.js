@@ -8,6 +8,7 @@ export const PageNotFound = () => {
   });
   return (
     <main>
+      <span>PageNotFound components</span>
       <img
         className="rounded-t-lg"
         src="https://previews.123rf.com/images/juliatim/juliatim1612/juliatim161200019/68893341-404-error-page-not-found-concept-illustration-of-people-using-laptops-having-problems-with-website.jpg"
