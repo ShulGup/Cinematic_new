@@ -43,7 +43,7 @@ export const HeaderComp = () => {
             alt="Flowbite Logo"
           />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Cinematic
+            Cinema Mate
           </span>
         </Link>
 
