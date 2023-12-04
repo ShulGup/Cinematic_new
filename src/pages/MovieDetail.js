@@ -20,7 +20,7 @@ export const MovieDetail = () => {
       setMovie(moviedata);
     }
     moviefetch();
-  }, []);
+  }, [param.id]);
 
   return (
     <main>
