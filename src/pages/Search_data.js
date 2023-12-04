@@ -12,6 +12,7 @@ export const Search = ({ api_path }) => {
   return (
     <main>
       <section className="py-7">
+        <p>search_data page</p>
         <p>
           {movies.length === 0
             ? `no result found for ${queryTerm}`
