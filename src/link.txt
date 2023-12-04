@@ -1,0 +1,6 @@
+1ed87d77314770a23462a892087e137b
+
+
+https://api.themoviedb.org/3/movie/top_rated?api_key=1ed87d77314770a23462a892087e137b
+https://api.themoviedb.org/3/movie/now_playing?api_key=1ed87d77314770a23462a892087e137b
+
