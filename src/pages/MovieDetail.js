@@ -5,7 +5,7 @@ import { useTitle } from "../hooks/useTitle";
 export const MovieDetail = () => {
   const param = useParams();
   const [movie, setMovie] = React.useState({});
-  const pageTitle = useTitle(movie.title);
+  useTitle(movie.title);
   const key = "1ed87d77314770a23462a892087e137b";
   const images = movie.poster_path
     ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
