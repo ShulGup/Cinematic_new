@@ -37,7 +37,7 @@ export const FooterComp = () => {
                   rel="noreferrer"
                   className="hover:underline me-4 md:me-6"
                 >
-                  Instagram
+                  Instagram Page
                 </a>
               </li>
               <li>

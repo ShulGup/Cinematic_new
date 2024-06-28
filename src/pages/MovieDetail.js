@@ -24,7 +24,7 @@ export const MovieDetail = () => {
 
   return (
     <main>
-      {/* {param.id} */}
+      {param.id}
       <section className="flex justify-around flex-wrap py-5">
         <div className="max-w-sm">
           <img className="rounded" src={images} alt={movie.title} />

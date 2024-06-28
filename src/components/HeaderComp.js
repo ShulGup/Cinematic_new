@@ -212,7 +212,7 @@ export const HeaderComp = () => {
                 to="/movies/popular"
                 className={(match) => (match ? activeClass : inActiveClass)}
               >
-                Popular Movie
+                Popular Movie Page
               </NavLink>
             </li>
             <li>
