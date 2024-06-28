@@ -15,7 +15,7 @@ export const PageNotFound = () => {
         alt="No_images"
       />
       <Link to="/">
-        <Button>Back to cinematic Page</Button>
+        <Button>Back to cinematic</Button>
       </Link>
     </main>
   );
