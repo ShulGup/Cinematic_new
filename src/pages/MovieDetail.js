@@ -31,7 +31,7 @@ export const MovieDetail = () => {
         </div>
         <div className="max-w-2xl text-gray-700 text-lg dark:text-white">
           <h1 className="text-4xl font-bold my-3 text-center lg:text-left">
-            {movie.title}
+            `Title: ${movie.title}``
           </h1>
           <p className="my-4">{movie.overview}</p>
           {movie.genres ? (
